@@ -1,0 +1,3 @@
+[submodule "otherinfo"]
+	path = otherinfo
+	url = git@github.com:sajidj/otherinfo.git
